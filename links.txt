@@ -43,6 +43,7 @@ https://sploitus.com/v
 22. crt.sh —> (Certificate Search)
 23. vulners.com —> (Vulnerabilities)
 24. pulsedive.com —> (Threat Intelligence)
+25. hudsonrock.com —> (Threat Intelligence)
 
 
 Here are 30 cybersecurity search engines:
@@ -71,6 +72,7 @@ Here are 30 cybersecurity search engines:
 20. Wigle—Database of wireless networks, with statistics.
 23. PublicWWW—Marketing and affiliate marketing research.
 24. Binary Edge—Scans the internet for threat intelligence.
+
 25. GreyNoise—Search for devices connected to the internet.
 26. Hunter—Search for email addresses belonging to a website.
 27. Censys—Assessing attack surface for internet connected devices.
