@@ -1,6 +1,6 @@
 # OSINT & Cybersecurity Resource List
 
-**Disclaimer:** Many of these tools are extremely powerful. Always use them responsibly, ethically, and in accordance with local and international laws. Some services may be freemium or require a subscription for full access.
+**Disclaimer:** Many of these tools are powerful. Always use them responsibly, ethically, and in accordance with local and international laws. Some services may be freemium or require a subscription for full access.
 
 ## Internet-Wide Scanners & Asset Discovery
 *   [Shodan](https://shodan.io/) - The original search engine for internet-connected devices, servers, and the Internet of Things (IoT).
